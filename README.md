@@ -7,6 +7,10 @@ Structured Study Program (SSP) which focuses on Javascript.
 (2018-01-29 - 2018-02-25) but otherwise no affiliation with Hack Reactor is 
 implied nor inferred.
 
+_Note: If you pull the pre-built container image from Docker Hub, edit_
+_transient.sh and persistent.sh by changing nodejs to 
+gdhorne/docker-alpine-nodejs._
+
 ## Instructions
 
 ### Automated Build
